@@ -14,13 +14,13 @@
  * limitations under the License.
  */
 
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.content.Context;
 import androidx.preference.Preference;
 import android.util.AttributeSet;
 
-import com.legion.support.R;
+import com.scandium.support.R;
 
 public class AppListPreference extends Preference {
 
