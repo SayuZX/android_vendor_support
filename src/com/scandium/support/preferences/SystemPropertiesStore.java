@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.os.SystemProperties;
 import android.preference.PreferenceDataStore;
