@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
