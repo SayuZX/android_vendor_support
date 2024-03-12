@@ -16,7 +16,7 @@
 -->
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.legion.support">
+    package="com.scandium.support">
 
     <uses-sdk
         android:minSdkVersion="27" />
