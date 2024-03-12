@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -24,7 +24,7 @@ import android.util.AttributeSet;
 import android.view.View;
 import android.widget.Switch;
 
-import com.legion.support.R;
+import com.scandium.support.R;
 
 /**
  * A custom preference that provides inline switch toggle. It has a mandatory field for title, and
