@@ -14,14 +14,14 @@
  * limitations under the License.
  */
 
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.legion.support.R;
+import com.scandium.support.R;
 
-import com.legion.support.preferences.SystemSettingsStore;
+import com.scandium.support.preferences.SystemSettingsStore;
 
 public class SystemSettingMasterSwitchPreference extends MasterSwitchPreference {
 
