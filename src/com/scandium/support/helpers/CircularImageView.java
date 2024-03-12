@@ -1,4 +1,4 @@
-package com.legion.support.helpers;
+package com.scandium.support.helpers;
 
 import android.annotation.SuppressLint;
 import android.content.Context;
@@ -15,7 +15,7 @@ import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
 import androidx.appcompat.widget.AppCompatImageView;
 
-import com.legion.support.R;
+import com.scandium.support.R;
 
 public class CircularImageView extends AppCompatImageView {
 
