@@ -14,12 +14,12 @@
  * limitations under the License.
  */
 
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.content.Context;
 import android.util.AttributeSet;
 
-import com.legion.support.preferences.SecureSettingsStore;
+import com.scandium.support.preferences.SecureSettingsStore;
 
 public class SecureSettingMasterSwitchPreference extends MasterSwitchPreference {
 
