@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package com.legion.support.preferences;
+package com.scandium.support.preferences;
 
 import android.app.Activity;
 import android.content.BroadcastReceiver;
@@ -33,9 +33,9 @@ import java.util.Map;
 import java.util.Objects;
 import java.util.Set;
 
-import static com.legion.support.preferences.RemotePreference.ACTION_REFRESH_PREFERENCE;
-import static com.legion.support.preferences.RemotePreference.ACTION_UPDATE_PREFERENCE;
-import static com.legion.support.preferences.RemotePreference.EXTRA_KEY;
+import static com.scandium.support.preferences.RemotePreference.ACTION_REFRESH_PREFERENCE;
+import static com.scandium.support.preferences.RemotePreference.ACTION_UPDATE_PREFERENCE;
+import static com.scandium.support.preferences.RemotePreference.EXTRA_KEY;
 
 /**
  * Manages attaching and detaching of RemotePreferences and optimizes callbacks
